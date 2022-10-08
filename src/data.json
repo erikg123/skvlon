@@ -3,245 +3,245 @@
     "lastName": "Alfsson",
     "firstName": "Anton",
     "salaries": { "2020": 42500, "2021": 43100 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Andersson",
     "firstName": "Holger",
     "salaries": { "2020": 39000, "2021": 41000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Apitzsch",
     "firstName": "Andreas",
     "salaries": { "2020": 50000, "2021": 50500 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Bengtsson",
     "firstName": "Håkan",
     "salaries": { "2020": 74400, "2021": 77300 },
-    "roles": ["chef"],
+    "roles": ["Chef"],
     "department": 1
   },
   {
     "lastName": "Björk",
     "firstName": "Mikael",
     "salaries": { "2020": 50000, "2021": 51400 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Carleson",
     "firstName": "Fredrik",
     "salaries": { "2020": 69000, "2021": 70500 },
-    "roles": ["chef"],
+    "roles": ["Chef"],
     "department": 2
   },
   {
     "lastName": "Dahlgren",
     "firstName": "Sofia",
     "salaries": { "2020": 48000, "2021": 49100 },
-    "roles": ["ux", "po"],
+    "roles": ["UX", "PO"],
     "department": 2
   },
   {
     "lastName": "Dufbäck Fornander",
     "firstName": "Johan",
     "salaries": { "2020": 48000, "2021": 48700 },
-    "roles": ["test"],
+    "roles": ["Test"],
     "department": 2
   },
   {
     "lastName": "Eriksson",
     "firstName": "Olle",
     "salaries": { "2020": 49000, "2021": 49700 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Ftouni",
     "firstName": "Hassan",
     "salaries": { "2020": 45500, "2021": 46100 },
-    "roles": ["test", "sm"],
+    "roles": ["Test", "SM"],
     "department": 1
   },
   {
     "lastName": "Glimberg",
     "firstName": "Henrik",
     "salaries": { "2020": 70000, "2021": 71400 },
-    "roles": ["ark"],
+    "roles": ["Ark"],
     "department": 1
   },
   {
     "lastName": "Granbom",
     "firstName": "Erik",
     "salaries": { "2021": 50000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Hahre",
     "firstName": "Anna",
     "salaries": { "2020": 43500, "2021": 44900 },
-    "roles": ["ux"],
+    "roles": ["UX"],
     "department": 1
   },
   {
     "lastName": "Hemgren",
     "firstName": "Jonas",
     "salaries": { "2020": 59000, "2021": 59500 },
-    "roles": ["sm"],
+    "roles": ["SM"],
     "department": 2
   },
   {
     "lastName": "Kasraee",
     "firstName": "Pezhman",
     "salaries": { "2021": 44000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Lannerud",
     "firstName": "Martin",
     "salaries": { "2020": 51000, "2021": 52000 },
-    "roles": ["test"],
+    "roles": ["Test"],
     "department": 2
   },
   {
     "lastName": "Lundberg",
     "firstName": "Tibor",
     "salaries": { "2020": 33000, "2021": 36000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Mehmedovic",
     "firstName": "Mersad",
     "salaries": { "2020": 50000, "2021": 50500 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Mujezinovic",
     "firstName": "Amir",
     "salaries": { "2020": 45000, "2021": 46000 },
-    "roles": ["test"],
+    "roles": ["Test"],
     "department": 1
   },
   {
     "lastName": "Nero",
     "firstName": "Carin",
     "salaries": { "2021": 51000 },
-    "roles": ["krav"],
+    "roles": ["Krav"],
     "department": 1
   },
   {
     "lastName": "Nilsson",
     "firstName": "Pål",
     "salaries": { "2020": 46000, "2021": 47000 },
-    "roles": ["test"],
+    "roles": ["Test"],
     "department": 1
   },
   {
     "lastName": "Nordenberg",
     "firstName": "Pontus",
     "salaries": { "2020": 50000, "2021": 51000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Ohlsson",
     "firstName": "Patrik",
     "salaries": { "2020": 60000, "2021": 60600 },
-    "roles": ["sm"],
+    "roles": ["SM"],
     "department": 1
   },
   {
     "lastName": "Paulsson",
     "firstName": "Marielle",
     "salaries": { "2020": 49000, "2021": 52000 },
-    "roles": ["pm"],
+    "roles": ["PM"],
     "department": 2
   },
   {
     "lastName": "Pehrsson",
     "firstName": "Anders",
     "salaries": { "2020": 44000, "2021": 45000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Rindebäck",
     "firstName": "Henry",
     "salaries": { "2021": 44000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Rolfsson",
     "firstName": "Christian",
     "salaries": { "2020": 43000, "2021": 43900 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   },
   {
     "lastName": "Sjöberg",
     "firstName": "Bodil",
     "salaries": { "2020": 55000, "2021": 56000 },
-    "roles": ["sm"],
+    "roles": ["SM"],
     "department": 2
   },
   {
     "lastName": "Sjölin",
     "firstName": "Mattias",
     "salaries": { "2021": 45000 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Sperling",
     "firstName": "Daniel",
     "salaries": { "2020": 46000, "2021": 47000 },
-    "roles": ["ux"],
+    "roles": ["UX"],
     "department": 1
   },
   {
     "lastName": "Stenfors",
     "firstName": "Sofia",
     "salaries": { "2020": 54000, "2021": 54400 },
-    "roles": ["krav"],
+    "roles": ["Krav"],
     "department": 2
   },
   {
     "lastName": "Strid",
     "firstName": "Christoffer",
     "salaries": { "2020": 48000, "2021": 48960 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 2
   },
   {
     "lastName": "Virsberg",
     "firstName": "Agneta",
     "salaries": { "2021": 49900 },
-    "roles": ["sm"],
+    "roles": ["SM"],
     "department": 2
   },
   {
     "lastName": "Yalcin",
     "firstName": "Selda",
     "salaries": { "2020": 60000, "2021": 60800 },
-    "roles": ["sm"],
+    "roles": ["SM"],
     "department": 1
   },
   {
     "lastName": "Åberg",
     "firstName": "Andreas",
     "salaries": { "2020": 38000, "2021": 38800 },
-    "roles": ["utv"],
+    "roles": ["Utv"],
     "department": 1
   }
 ]
