@@ -1,6 +1,7 @@
 {
   "name": "skvlon",
   "version": "0.1.0",
+  "homepage": "https://erikg123.github.io/skvlon",
   "private": true,
   "scripts": {
     "start": "react-scripts start",
