@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skvlon/static/css/main.f61d985d.css",
+    "main.js": "/skvlon/static/js/main.7915146b.js",
+    "index.html": "/skvlon/index.html",
+    "main.f61d985d.css.map": "/skvlon/static/css/main.f61d985d.css.map",
+    "main.7915146b.js.map": "/skvlon/static/js/main.7915146b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61d985d.css",
+    "static/js/main.7915146b.js"
+  ]
+}
