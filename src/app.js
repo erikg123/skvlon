@@ -11,6 +11,7 @@ function App() {
     if (years.length < 2) return;
     if (!years.includes(currentYear)) return;
     const lastYear = years[years.indexOf(currentYear) - 1];
+    if (!lastYear) return;
     const percentage = (
       (salaries[currentYear] / salaries[lastYear] - 1) *
       100
@@ -47,6 +48,7 @@ function App() {
             <th>Förnamn</th>
             <th>2020</th>
             <th>2021</th>
+            <th>2022</th>
             <th>Roller</th>
             <th>Applikationsenhet</th>
           </tr>
@@ -62,6 +64,14 @@ function App() {
                 {getPercentage('2021', person.salaries) && (
                   <span className="percentage">
                     {getPercentage('2021', person.salaries)}
+                  </span>
+                )}
+              </td>
+              <td>
+                {person.salaries[2022] || '-'}
+                {getPercentage('2022', person.salaries) && (
+                  <span className="percentage">
+                    {getPercentage('2022', person.salaries)}
                   </span>
                 )}
               </td>
